@@ -1,0 +1,34 @@
+library {
+    display: block;
+    background-color: lightyellow;
+    padding: 15px;
+}
+
+book {
+    display: block;
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+title {
+    display: block;
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+author {
+    display: block;
+    color: green;
+    margin-left: 10px;
+}
+
+price {
+    display: block;
+    color: red;
+    margin-left: 10px;
+}
+
+library.css
