@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hospital.xsl"?>
+
+<hospital>
+    <appointment>
+        <patient_name>Arnav</patient_name>
+        <doctor_name>Dr. Sharma</doctor_name>
+        <department>Cardiology</department>
+        <time>10:30 AM</time>
+    </appointment>
+
+    <appointment>
+        <patient_name>Riya</patient_name>
+        <doctor_name>Dr. Mehta</doctor_name>
+        <department>Dermatology</department>
+        <time>12:00 PM</time>
+    </appointment>
+
+    <appointment>
+        <patient_name>Rahul</patient_name>
+        <doctor_name>Dr. Patel</doctor_name>
+        <department>Orthopedics</department>
+        <time>02:15 PM</time>
+    </appointment>
+</hospital>
