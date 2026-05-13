@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+
+<students>
+    <student>
+        <name>Advait</name>
+        <course>CSE</course>
+        <marks>82</marks>
+    </student>
+    <student>
+        <name>Prajal</name>
+        <course>IT</course>
+        <marks>67</marks>
+    </student>
+    <student>
+        <name>Rahul</name>
+        <course>ENTC</course>
+        <marks>40</marks>
+    </student>
+</students>
